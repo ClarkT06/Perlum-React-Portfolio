@@ -2,28 +2,29 @@
   {
     "id": 1,
     "name": "Yummy Corner",
-
+    "image": "https://github.com/ClarkT06/Perlum-React-Portfolio/blob/main/src/assets/yummy%20corner.png?raw=true",
     "project": "Track your Food!",
     "location": "https://github.com/abbeyschu/RecipeProject2"
   },
   {
     "id": 2,
     "name": "Coding Quiz",    
-
+"images": "https://github.com/ClarkT06/Perlum-React-Portfolio/blob/main/src/assets/Coding-Quiz.png?raw=true",
        "project": "Javascript Quiz",
     "location": "https://clarkt06.github.io/Code-Quiz/"
   },
   {
     "id": 3,
     "name": "Workday Planner",
-   
+    "images": "https://github.com/ClarkT06/Perlum-React-Portfolio/blob/main/src/assets/Work-Day-Scheduler.png?raw=true",
+    
     "project": "Workday Planner",
     "location": "https://github.com/ClarkT06/planner2"
   },
   {
     "id": 4,
     "name": "Cinephile Project 3",
-  
+    "image": "https://github.com/ClarkT06/Perlum-React-Portfolio/blob/main/src/assets/Cinephile.png?raw=true",
     "project": "Find you fav movies!",
     "location": "https://github.com/UW-Bootcamp-Project-3/Cinephile-Project-3"
   },
