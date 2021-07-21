@@ -9,14 +9,14 @@
   {
     "id": 2,
     "name": "Coding Quiz",    
-"images": "https://github.com/ClarkT06/Perlum-React-Portfolio/blob/main/src/assets/Coding-Quiz.png?raw=true",
+"image": "https://github.com/ClarkT06/Perlum-React-Portfolio/blob/main/src/assets/coding.png?raw=true",
        "project": "Javascript Quiz",
     "location": "https://clarkt06.github.io/Code-Quiz/"
   },
   {
     "id": 3,
     "name": "Workday Planner",
-    "images": "https://github.com/ClarkT06/Perlum-React-Portfolio/blob/main/src/assets/Work-Day-Scheduler.png?raw=true",
+    "image": "https://github.com/ClarkT06/Perlum-React-Portfolio/blob/main/src/assets/workday.png?raw=true",
     
     "project": "Workday Planner",
     "location": "https://github.com/ClarkT06/planner2"
@@ -31,14 +31,14 @@
   {
     "id": 5,
     "name": "Weather Dashboard",
- 
+ "image":"https://github.com/ClarkT06/Perlum-React-Portfolio/blob/main/src/assets/weather.png?raw=true",
     "project": "A Weather Tracking App",
     "location": "https://clarkt06.github.io/Weather-Dashboard/"
   },
   {
     "id": 6,
     "name": "Workout Tracker",
-  
+  "image": "https://github.com/ClarkT06/Perlum-React-Portfolio/blob/main/src/assets/workouttracker.png?raw=true",
     "project": "workout tracker",
     "location": "https://github.com/ClarkT06/Workout-Tracker"
   }
